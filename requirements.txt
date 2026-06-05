@@ -1,0 +1,7 @@
+Run on terminal:
+
+1.pip install streamlit
+
+2.cd C:\Building Movie Recomendation Web Apps with Streamlit (location of your code files)
+
+3.streamlit run app.py
