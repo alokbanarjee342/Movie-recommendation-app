@@ -1,7 +1,4 @@
-Run on terminal:
-
-1.pip install streamlit
-
-2.cd C:\Building Movie Recomendation Web Apps with Streamlit (location of your code files)
-
-3.streamlit run app.py
+streamlit==1.44.1
+numpy==2.2.4
+pandas==2.2.3
+scikit-learn==1.6.1
