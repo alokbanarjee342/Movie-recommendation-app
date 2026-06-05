@@ -1,6 +1,6 @@
 1. 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 :
 
-       An end-to-end Machine Learning project that suggests movies based on a user's favorite title. This system uses Content-Based Filtering to find similarities between movies using metadata like genres, keywords, cast, and directors.
+        An end-to-end Machine Learning project that suggests movies based on a user's favorite title. This system uses Content-Based Filtering to find similarities between movies using metadata like genres, keywords, cast, and directors.
 
 2.𝐇𝐞𝐫𝐞 𝐢 𝐮𝐞𝐬𝐝 :
 
