@@ -1,6 +1,6 @@
-1.𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 :
+1. 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 :
 
-An end-to-end Machine Learning project that suggests movies based on a user's favorite title. This system uses Content-Based Filtering to find similarities between movies using metadata like genres, keywords, cast, and directors.
+       An end-to-end Machine Learning project that suggests movies based on a user's favorite title. This system uses Content-Based Filtering to find similarities between movies using metadata like genres, keywords, cast, and directors.
 
 2.𝐇𝐞𝐫𝐞 𝐢 𝐮𝐞𝐬𝐝 :
 
@@ -18,9 +18,9 @@ An end-to-end Machine Learning project that suggests movies based on a user's fa
   
 3. 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 :
 
-    -The system uses difflib to find the closest match to your input
+     -The system uses difflib to find the closest match to your input
   
-    - Recommendations are based on a "Combined Feature" string consisting of:
+     - Recommendations are based on a "Combined Feature" string consisting of:
     
             a. Genres
     
@@ -32,9 +32,9 @@ An end-to-end Machine Learning project that suggests movies based on a user's fa
     
             e. Director names
     
-     -Uses TF-IDF vectorization and pre-calculated similarity matrices for near-instant results.
+       -Uses TF-IDF vectorization and pre-calculated similarity matrices for near-instant results.
    
-     -Interactive web UI for clean, easy-to-use interface built with Streamlit.
+       -Interactive web UI for clean, easy-to-use interface built with Streamlit.
 
 
 <img width="1112" height="624" alt="Screenshot 2026-06-05 212102" src="https://github.com/user-attachments/assets/d1d3d84d-5c70-4bc4-8761-e90b99bc58c1" />
