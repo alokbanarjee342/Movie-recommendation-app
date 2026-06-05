@@ -8,23 +8,36 @@ An end-to-end Machine Learning project that suggests movies based on a user's fa
 
 2.Here i uesd :
 
-  Language: Python 3.0
-  Data Manipulation: Pandas, NumPy
-  Machine Learning: Scikit-learn (TfidfVectorizer, cosine_similarity)
-  Text Processing: difflib (for fuzzy string matching)
-  Web Framework: Streamlit (for the interactive UI)
-  Environment: Developed in Google Colab and deployed via Spyder
+  i.Language: Python 3.0
+  
+  ii.Data Manipulation: Pandas, NumPy
+  
+  iii.Machine Learning: Scikit-learn (TfidfVectorizer, cosine_similarity)
+  
+  iv.Text Processing: difflib (for fuzzy string matching)
+  
+  v.Web Framework: Streamlit (for the interactive UI)
+  
+  vi.Environment: Developed in Google Colab and deployed via Spyder
+  
 3.Features:
 
   -The system uses difflib to find the closest match to your input
+  
   - Recommendations are based on a "Combined Feature" string consisting of:
-  - 
+    
       a.Genres
+    
       b.Keywords
+    
       c.Taglines
+    
       d.Cast members
+    
       e.Director names
+    
    -Uses TF-IDF vectorization and pre-calculated similarity matrices for near-instant results.
+   
    -Interactive web UI for clean, easy-to-use interface built with Streamlit.
   
 
